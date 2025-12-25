@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@example.com",
+    "address": {
+      "city": "Mumbai",
+      "street": "123 Marine Drive",
+      "zipcode": "400001"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sarah Jenkins",
+    "email": "s.jenkins@provider.net",
+    "address": {
+      "city": "New York",
+      "street": "456 Broadway Ave",
+      "zipcode": "10012"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Kenji Tanaka",
+    "email": "tanaka.k@techcorp.jp",
+    "address": {
+      "city": "Tokyo",
+      "street": "7-8-1 Minato-ku",
+      "zipcode": "105-0011"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Elena Rodriguez",
+    "email": "elena.rod@services.es",
+    "address": {
+      "city": "Madrid",
+      "street": "Calle Mayor 10",
+      "zipcode": "28013"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Liam O'Connor",
+    "email": "liam.oc@webmail.ie",
+    "address": {
+      "city": "Dublin",
+      "street": "22 Grafton Street",
+      "zipcode": "D02 XY65"
+    }
+  }
+]
